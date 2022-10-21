@@ -28,7 +28,7 @@ Some concepts of Git are:
 5. Push files to the remote repository
    1. `git push origin` $\rightarrow$ by default update all commited files of all branches in the remote repository
    2. `git push origin <branch name>` $\rightarrow$ update all commited files of `<branch name>` in the remote repository
-6. Get latest update from the remote repository
+6. Get latest updates from the remote repository
    1. `git pull`
 
 
