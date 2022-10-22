@@ -32,7 +32,7 @@ Some concepts of Git are:
    - `git pull`
 7. Show all of the tracked files that have been committed:
    - `git ls-tree --full-tree --name-only -r HEAD` $\rightarrow$ on the current branch
-   - `git ls-tree --full-tree --name-only -r <branch name>` $\rightarrow$ on the a specific branch
+   - `git ls-tree --full-tree --name-only -r <branch name>` $\rightarrow$ on a specific branch
 
 
 ## Some steps to configre using git for the first time at local machines
