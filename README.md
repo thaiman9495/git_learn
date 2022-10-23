@@ -36,8 +36,10 @@ Some concepts of Git are:
 
 
 ## Some steps to configre using git for the first time at local machines
-1. Using `git init` to create a git repository ".git" (git folder)
-2. Config user's name and email adress (use `git config --list` to see all configuration):
-   1.  `git config --global user.email "thai.nguyenvan9495@gmail.com"`
-   2.  `git config --global user.name "Thai Nguyen"`
+1. Initialize 'conda' on 'git bash': 
+   - `conda init bash`
+2. Using `git init` to create a git repository ".git" (git folder)
+3. Config user's name and email adress (use `git config --list` to see all configuration):
+   -  `git config --global user.email "thai.nguyenvan9495@gmail.com"`
+   -  `git config --global user.name "Thai Nguyen"`
 
