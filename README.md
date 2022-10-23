@@ -36,7 +36,7 @@ Some concepts of Git are:
 
 
 ## Some steps to configre using git for the first time at local machines
-1. Initialize 'conda' on 'git bash': 
+1. Initialize **conda** on **git bash**: 
    - `conda init bash`
 2. Using `git init` to create a git repository ".git" (git folder)
 3. Config user's name and email adress (use `git config --list` to see all configuration):
